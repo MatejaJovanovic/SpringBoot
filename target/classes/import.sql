@@ -1,0 +1,1 @@
+INSERT INTO languages (id, lang, message) VALUES (1, "eng", "Hello World !"),(2, "rs", "Zdravo svete!");
